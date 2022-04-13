@@ -267,7 +267,7 @@ img {
   background-color: var(--secondary-bg-color);
 }
 
-.team-section-tumb {
+.team-section-thumb {
 padding-top: 30px;
 padding-bottom: 30px;
 background: var(--secondary-text-color);
@@ -371,7 +371,7 @@ margin-bottom: 50px;
   background: var(--accent-color);
 }
 
-.project-card-tumb {
+.project-card-thumb {
   padding: 20px 24px;
   background: var(--secondary-text-color);
   border: 1px solid #EEEEEE;
